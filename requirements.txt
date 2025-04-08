@@ -1,0 +1,7 @@
+streamlit==1.32.0
+opencv-python==4.9.0.80
+mediapipe==0.10.15
+numpy==1.26.3
+Pillow==10.2.0
+pyttsx3==2.90
+streamlit-extras==0.3.6
