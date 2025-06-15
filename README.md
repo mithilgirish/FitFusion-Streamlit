@@ -11,6 +11,10 @@ FitFusion is a real-time exercise tracking application powered by computer visio
 - Mobile-friendly interface
 - Demo mode for when camera access isn't available
 
+##  Screenshots
+![image](https://github.com/user-attachments/assets/6824ae4b-2cd5-4eee-872e-ddfa820bf83e)
+![image](https://github.com/user-attachments/assets/be2df488-7481-4e55-a984-9d61ef13a65b)
+
 ## Deployment
 
 ### Streamlit Cloud Deployment
